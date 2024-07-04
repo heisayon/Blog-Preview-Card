@@ -58,6 +58,6 @@ I learnt how to use the dropshadow filter property, to create amazing UIs. And h
 ## Author
 
 - Website - [Zion](https://github.com/heisayon/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/heisayon)
-- Twitter - [@yourusername](https://www.twitter.com/heisayon)
+- Frontend Mentor - [@heisayon](https://www.frontendmentor.io/profile/heisayon)
+- Twitter - [@heisayon](https://www.twitter.com/heisayon)
 
